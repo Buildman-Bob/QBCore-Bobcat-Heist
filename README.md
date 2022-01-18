@@ -21,3 +21,7 @@ INFO: reward items can be changed in server.lua, also non weapon items can be ad
 INFO2: The explosion kills you and npcs do damage, I just had godmode on.
 
 Preview: https://streamable.com/z2i9pv
+
+Credits:
+Mlo- aw3rque
+Memorygame- aw3rque
