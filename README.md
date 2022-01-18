@@ -8,6 +8,9 @@ Items for qb-core/shared.lua
     
     ["thermitec"] 				 	 = {["name"] = "thermitec",				    	["label"] = "Thermite Charge",			["weight"] = 1000,		["type"] = "item",		["image"] = "thermitec.png",		    ["unique"] = false,		["useable"] = true,		["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Go Burning"},
 
+Help: 1st door can be opened with thermite, 2nd door can be opened with thermitec, 3rd door can be opened with security_card_01
+
+
 Requirements:
 qb-policejob
 np-memoryminigame
