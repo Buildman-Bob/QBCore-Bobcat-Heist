@@ -12,8 +12,8 @@ Help: 1st door can be opened with thermite, 2nd door can be opened with thermite
 
 
 Requirements:
-qb-policejob
-np-memoryminigame
+qb-policejob,
+np-memoryminigame,
 Bobcat MLO
 
 NB: reward items can be changed in server.lua.
