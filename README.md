@@ -16,6 +16,6 @@ qb-policejob
 np-memoryminigame
 Bobcat MLO
 
-NB2: reward items can be changed in server.lua.
+NB: reward items can be changed in server.lua.
 
 Preview: https://streamable.com/z2i9pv
