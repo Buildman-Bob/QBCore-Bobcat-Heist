@@ -16,6 +16,8 @@ qb-policejob,
 np-memoryminigame,
 Bobcat MLO
 
-NB: reward items can be changed in server.lua.
+INFO: reward items can be changed in server.lua, also non weapon items can be added.
+
+INFO2: The explosion kills you and npcs do damage, I just had godmode on.
 
 Preview: https://streamable.com/z2i9pv
