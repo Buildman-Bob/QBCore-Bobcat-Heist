@@ -7,3 +7,8 @@ Items for qb-core/shared.lua
   	['thermite'] 			 	 	 = {['name'] = 'thermite', 			  			['label'] = 'Thermite', 				['weight'] = 1000, 		['type'] = 'item', 		['image'] = 'thermite.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Sometimes you\'d wish for everything to burn'},
     
     ["thermitec"] 				 	 = {["name"] = "thermitec",				    	["label"] = "Thermite Charge",			["weight"] = 1000,		["type"] = "item",		["image"] = "thermitec.png",		    ["unique"] = false,		["useable"] = true,		["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Go Burning"},
+
+Requirements:
+qb-policejob
+np-memoryminigame
+Bobcat MLO
